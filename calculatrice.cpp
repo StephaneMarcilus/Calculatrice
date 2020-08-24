@@ -4,7 +4,7 @@
 
 void Calculatrice::init()
 {
-    operande_=0;
+    operande_= 0;
     courant_=0;
     operateur_=RIEN;
     statut_=true;
