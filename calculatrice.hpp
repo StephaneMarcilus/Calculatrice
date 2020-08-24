@@ -23,5 +23,4 @@ class Calculatrice
  
 };
 
-#endif /* CALCULATRICE_HPP */
-
+#endif
